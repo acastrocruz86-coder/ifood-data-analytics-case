@@ -25,7 +25,14 @@ notebooks/ → análise exploratória e respostas do case
 src/ → scripts auxiliares de processamento
 data_sample/ → amostra dos dados
 
-## Como executar
+
+## Executar no Google Colab
+
+O notebook pode ser executado diretamente no Google Colab:
+
+https://colab.research.google.com/drive/1GLJcqqK6B5lF65RPvdgzR2xGEUlrhNy9?authuser=1#scrollTo=20zhEfIJcgoN
+
+## Outras formas de executar 
 
 1. Clone o repositório
 
